@@ -1,2 +1,0 @@
-# grus-grus-generator
-grus
