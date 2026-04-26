@@ -1,0 +1,2 @@
+# grus-grus-generator
+grus
